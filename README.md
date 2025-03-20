@@ -1,21 +1,32 @@
-# Tashkent Housing Price Prediction 🏡  
+# 🏡 Tashkent Housing Price Prediction  
 
-Ushbu loyiha Toshkent shahridagi uy narxlarini bashorat qilish uchun ishlab chiqilgan.  
-Loyiha ma’lumotlar tozalash, tahlil qilish va bashorat modelini yaratishni o‘z ichiga oladi.  
+Ushbu loyiha **Toshkent shahridagi uy narxlarini bashorat qilish** uchun ishlab chiqilgan.  
+Loyiha **ma’lumotlarni tozalash, tahlil qilish va bashorat modelini yaratish** jarayonlarini o‘z ichiga oladi.  
 
-## 📂 Fayllar tuzilishi  
-- `model_Tashkent_housing.ipynb` - Modelni yaratish jarayoni  
-- `model-Tashkent_housing.pkl` - Tayyor model  
+## 📂 Fayllar Tuzilishi  
+📁 `model_Tashkent_housing.ipynb` – Modelni yaratish jarayoni  
+📁 `model-Tashkent_housing.pkl` – Tayyor model  
 
-## 📊 Ishlatilgan kutubxonalar  
-- `pandas`  
-- `numpy`  
-- `matplotlib`  
-- `sklearn`  
+## 📊 Ishlatilgan Kutubxonalar  
+✔️ `pandas`  
+✔️ `numpy`  
+✔️ `matplotlib`  
+✔️ `sklearn`  
 
-Data 2021-yilgacha bo'lgan ma'lumotlarni o'z ichiga oladi.
+## 📅 Ma’lumotlar haqida  
+🔹 Data 2021-yilgacha bo‘lgan uy narxlari ma’lumotlarini o‘z ichiga oladi.  
 
-## model natijasi:
--'MAE (RandomForest): 0.30070459779655206'
--MSE (RandomForest): 0.26002887237724925
--R2 Score (RandomForest): 0.7539877763290906
+## 🎯 Model Baholash Natijalari  
+| Metrika | Qiymat |
+|---------|--------|
+| 🎯 **MAE**  | `0.3007` |
+| 📏 **MSE**  | `0.2600` |
+| 📈 **R² Score** | `0.7540` |
+
+
+
+---
+
+
+
+
