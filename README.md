@@ -13,6 +13,9 @@ Loyiha **ma’lumotlarni tozalash, tahlil qilish va bashorat modelini yaratish**
 ✔️ `matplotlib`  
 ✔️ `sklearn`  
 
+## 🛠️ Ishlatilgan Model  
+🔹 **Random Forest Regressor**  
+
 ## 📅 Ma’lumotlar haqida  
 🔹 Data 2021-yilgacha bo‘lgan uy narxlari ma’lumotlarini o‘z ichiga oladi.  
 
