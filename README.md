@@ -12,3 +12,10 @@ Loyiha maâ€™lumotlar tozalash, tahlil qilish va bashorat modelini yaratishni oâ€
 - `numpy`  
 - `matplotlib`  
 - `sklearn`  
+
+Data 2021-yilgacha bo'lgan ma'lumotlarni o'z ichiga oladi.
+
+model natijasi:
+MAE (RandomForest): 0.30070459779655206
+MSE (RandomForest): 0.26002887237724925
+R2 Score (RandomForest): 0.7539877763290906
